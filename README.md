@@ -2,9 +2,9 @@
 windowsで動く、Spotlightもどきを適当に作った。(PowerToysのほうがまし)
 
 # Downlord
-
+[downlord](https://github.com/dostesuto/Spotlight/releases/tag/spotsearch)
 # 使い方
-まず、アプリを起動する。
+まず、「app.exe」を[ダウンロード](https://github.com/dostesuto/Spotlight/releases/tag/spotsearch)し、アプリを起動する。
 次に、「Ctrl+space」でSpotlightが起動します。
 閉じるには、「Esc」で閉じます。
 
